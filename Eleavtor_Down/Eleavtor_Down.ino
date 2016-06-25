@@ -1,4 +1,5 @@
 #include <Servo.h>
+#include "Timer.h" 
 
 Servo myservo;  // create servo object to control a servo
 // twelve servo objects can be created on most boards
